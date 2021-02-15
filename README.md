@@ -1,6 +1,6 @@
 # Delicious
 
-is a meals applications
+is a meals application
 
 ## Getting Started
 
