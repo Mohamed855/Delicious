@@ -1,16 +1,15 @@
 # Delicious
 
-A new Flutter project.
+is a meals applications
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- this aplication is a meals' description application that contains many meals, its ingredients, and the steps to make it with the expected price to make it.
 
-A few resources to get you started if this is your first Flutter project:
+- you can add meals to your favorite page to get it directly.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- you can adjust your meal selection by filter meals' with its conponents.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- this application works with android and ios systems.
+
+- it's easy to use with a good user interface
