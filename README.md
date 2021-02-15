@@ -12,4 +12,4 @@ is a meals applications
 
 - this application works with android and ios systems.
 
-- it's easy to use with a good user interface
+- it's easy to use with a good user interface.
